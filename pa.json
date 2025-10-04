@@ -183,5 +183,10 @@
   "No Backup yet": "ਅਜੇ ਤੱਕ ਕੋਈ ਬੈਕਅਪ ਨਹੀਂ",
   "Export": "ਨਿਰਯਾਤ",
   "Import": "ਆਯਾਤ",
-  "You can export your data to Google Drive or restore it from a previous backup.": "ਤੁਸੀਂ ਆਪਣਾ ਡਾਟਾ Google Drive 'ਤੇ ਨਿਰਯਾਤ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਪਿਛਲੇ ਬੈਕਅਪ ਤੋਂ ਪੁਨਰਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।"
+  "You can export your data to Google Drive or restore it from a previous backup.": "ਤੁਸੀਂ ਆਪਣਾ ਡਾਟਾ Google Drive 'ਤੇ ਨਿਰਯਾਤ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਪਿਛਲੇ ਬੈਕਅਪ ਤੋਂ ਪੁਨਰਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।",
+    "Recently Used": "ਹਾਲ ਹੀ ਵਿੱਚ ਵਰਤੇ ਗਏ",
+  "Suggested": "ਸੁਝਾਏ ਗਏ",
+  "Add new category": "ਨਵੀਂ ਸ਼੍ਰੇਣੀ ਸ਼ਾਮਲ ਕਰੋ",
+  "Add": "ਸ਼ਾਮਲ ਕਰੋ",
+  "Amount must be less than 10,00,000": "ਰਕਮ 10,00,000 ਤੋਂ ਘੱਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ"
 }
