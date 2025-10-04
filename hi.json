@@ -185,5 +185,10 @@
   "No Backup yet": "अभी तक कोई बैकअप नहीं है",
   "Export": "निर्यात",
   "Import": "आयात",
-  "You can export your data to Google Drive or restore it from a previous backup.": "आप अपने डेटा को Google Drive पर निर्यात कर सकते हैं या पिछले बैकअप से पुनर्स्थापित कर सकते हैं।"
+  "You can export your data to Google Drive or restore it from a previous backup.": "आप अपने डेटा को Google Drive पर निर्यात कर सकते हैं या पिछले बैकअप से पुनर्स्थापित कर सकते हैं।",
+    "Recently Used": "हाल ही में उपयोग किया गया",
+  "Suggested": "सुझाए गए",
+  "Add new category": "नई श्रेणी जोड़ें",
+  "Add": "जोड़ें",
+  "Amount must be less than 10,00,000": "राशि 10,00,000 से कम होनी चाहिए"
 }
