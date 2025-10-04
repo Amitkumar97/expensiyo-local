@@ -189,5 +189,6 @@
   "Recently Used": "Recently Used",
   "Suggested": "Suggested",
   "Add new category": "Add new category",
-  "Add": "Add"
+  "Add": "Add",
+"Amount must be less than 10,00,000": "Amount must be less than 10,00,000"
 }
