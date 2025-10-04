@@ -183,5 +183,10 @@
     "No Backup yet": "હજુ બેકઅપ નથી",
     "Export": "નિકાસ",
     "Import": "આયાત",
-    "You can export your data to Google Drive or restore it from a previous backup.": "તમે તમારું ડેટા Google Drive પર નિકાસ કરી શકો છો અથવા અગાઉના બેકઅપમાંથી પુનઃસ્થાપિત કરી શકો છો."
+    "You can export your data to Google Drive or restore it from a previous backup.": "તમે તમારું ડેટા Google Drive પર નિકાસ કરી શકો છો અથવા અગાઉના બેકઅપમાંથી પુનઃસ્થાપિત કરી શકો છો.",
+    "Recently Used": "તાજેતરમાં વપરાયેલ",
+  "Suggested": "સૂચવાયેલ",
+  "Add new category": "નવી શ્રેણી ઉમેરો",
+  "Add": "ઉમેરો",
+  "Amount must be less than 10,00,000": "રકમ 10,00,000 કરતા ઓછી હોવી જોઈએ"
 }
