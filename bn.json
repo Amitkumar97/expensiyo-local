@@ -183,5 +183,10 @@
   "No Backup yet": "এখনও কোন ব্যাকআপ নেই",
   "Export": "রপ্তানি",
   "Import": "আমদানি",
-  "You can export your data to Google Drive or restore it from a previous backup.": "আপনি আপনার ডেটা Google Drive-এ রপ্তানি করতে পারেন বা পূর্বের ব্যাকআপ থেকে পুনরুদ্ধার করতে পারেন।"
+  "You can export your data to Google Drive or restore it from a previous backup.": "আপনি আপনার ডেটা Google Drive-এ রপ্তানি করতে পারেন বা পূর্বের ব্যাকআপ থেকে পুনরুদ্ধার করতে পারেন।",
+  "Recently Used": "সাম্প্রতিক ব্যবহৃত",
+  "Suggested": "প্রস্তাবিত",
+  "Add new category": "নতুন বিভাগ যোগ করুন",
+  "Add": "যোগ করুন",
+  "Amount must be less than 10,00,000": "পরিমাণ ১০,০০,০০০ এর কম হতে হবে"
 }
